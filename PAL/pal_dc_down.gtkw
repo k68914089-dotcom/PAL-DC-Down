@@ -1,0 +1,62 @@
+[*]
+[*] GTKWave Analyzer v3.3.107 (w)1999-2020 BSI
+[*] Mon Feb  9 18:10:53 2026
+[*]
+[dumpfile] "/Users/kirill/Documents/PAL/pal_dc_down_test.vcd"
+[dumpfile_mtime] "Mon Feb  9 18:10:33 2026"
+[dumpfile_size] 5767352
+[savefile] "/Users/kirill/Documents/PAL/pal_dc_down.gtkw"
+[timestart] 28000000
+[size] 1280 692
+[pos] -1 -1
+*-28.107624 515591128 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] pal_dc_down_test.
+[treeopen] pal_dc_down_test.dut0.
+[sst_width] 193
+[signals_width] 366
+[sst_expanded] 1
+[sst_vpaned_height] 238
+@200
+-global clk and reset
+@28
+pal_dc_down_test.clk
+pal_dc_down_test.reset_n
+@200
+-input to pal_dc_down
+@10420
+pal_dc_down_test.data_in[11:0]
+@200
+-output from pal_dc_down (unsigned)
+@c08024
+pal_dc_down_test.data_out[11:0]
+@28
+(0)pal_dc_down_test.data_out[11:0]
+(1)pal_dc_down_test.data_out[11:0]
+(2)pal_dc_down_test.data_out[11:0]
+(3)pal_dc_down_test.data_out[11:0]
+(4)pal_dc_down_test.data_out[11:0]
+(5)pal_dc_down_test.data_out[11:0]
+(6)pal_dc_down_test.data_out[11:0]
+(7)pal_dc_down_test.data_out[11:0]
+(8)pal_dc_down_test.data_out[11:0]
+(9)pal_dc_down_test.data_out[11:0]
+(10)pal_dc_down_test.data_out[11:0]
+(11)pal_dc_down_test.data_out[11:0]
+@1401200
+-group_end
+@200
+-
+@8420
+pal_dc_down_test.dut0.Min[11:0]
+@200
+-
+-** FILTERED DATA **
+-output from lpf_A
+@8420
+pal_dc_down_test.dut0.lpf_A.data_out[11:0]
+@200
+-output from lpf_B
+@8420
+pal_dc_down_test.dut0.lpf_B.data_out[11:0]
+[pattern_trace] 1
+[pattern_trace] 0
